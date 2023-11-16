@@ -1,0 +1,18 @@
+material in google drive :https://drive.google.com/drive/folders/1OFNnrHRZPZ3unWdErjLHod8Ibv2FfG1d
+
+
+
+
+data pre processing : https://colab.research.google.com/drive/1ncBlNMcep1u9L427ju_GiiFx9NDDCVRi#scrollTo=uSCtJ1aJe0du
+
+simple linear regr : https://colab.research.google.com/drive/1zFMNbXYjsvMtZmhAmqGOBwgnSfjxZ5E4
+
+multiple linear regr : https://colab.research.google.com/drive/1Qoa2bPzz_UfCILgqFeW_G9qkKmIJ4-07
+ 
+polynomial linear regr : https://colab.research.google.com/drive/1Bv07dVBdGj2v2E360X0htHqXMwH7e8oJ
+
+support vector regr :   https://colab.research.google.com/drive/1BXw9jnH06_f_u7-B_dC-zGshce2fUsGZ
+
+decision treee regr : https://colab.research.google.com/drive/1gvsNpoU6trRcErgIVO1cggfx_wcGOpEj
+
+
