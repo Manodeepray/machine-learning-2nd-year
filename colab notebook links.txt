@@ -15,4 +15,4 @@ support vector regr :   https://colab.research.google.com/drive/1BXw9jnH06_f_u7-
 
 decision treee regr : https://colab.research.google.com/drive/1gvsNpoU6trRcErgIVO1cggfx_wcGOpEj
 
-
+randome forest regressor : https://colab.research.google.com/drive/1R6IopSbCPbtS2PPkK721PqX1UbrKbXAV#scrollTo=KUPSFjXi5P6Q
